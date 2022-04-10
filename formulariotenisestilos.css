@@ -1,0 +1,36 @@
+/* Esta es la hoja de estilos */
+body{
+    
+    background-image:url("https://images.ecestaticos.com/C453KHKAe2X5jidnYjgLuqacjtE=/0x0:2272x1704/1600x900/filters:fill(white):format(jpg)/f.elconfidencial.com%2Foriginal%2F684%2F674%2F01d%2F68467401d5a28860a53f0f5b04bf25de.jpg");
+    text-align: center;
+}
+div{
+    width: 20%;
+    display: inline-block;
+    margin: 10px;
+    padding: 10px;
+    vertical-align: middle;
+    background-color: aliceblue;
+    text-align: center;
+    opacity: 0.9;
+    box-shadow: 7px 13px 37px;
+    
+}
+h2,h3{
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+    background-color: rgb(0, 255, 98);
+}
+h2{
+    font-size: 28 px;
+    color: rgb(9, 83, 27);
+}
+h3 {
+    font-size: 24px;
+    color: rgb(19, 85, 17);
+}
+p{
+    font-family: Arial, Helvetica, sans-serif
+}
